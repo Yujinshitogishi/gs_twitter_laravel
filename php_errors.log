@@ -1,0 +1,4 @@
+[16-Dec-2018 13:43:31 UTC] PHP Fatal error:  Cannot declare class CreateTweetsTable, because the name is already in use in /home/ubuntu/workspace/cms/database/migrations/2018_12_16_133347_create_tweets_table.php on line 32
+[16-Dec-2018 13:44:56 UTC] PHP Fatal error:  Cannot declare class CreateTweetsTable, because the name is already in use in /home/ubuntu/workspace/cms/database/migrations/2018_12_16_133347_create_tweets_table.php on line 32
+[17-Dec-2018 02:36:20 UTC] PHP Fatal error:  Cannot declare class CreateTweetsTable, because the name is already in use in /home/ubuntu/workspace/cms/database/migrations/2018_12_16_133347_create_tweets_table.php on line 32
+[17-Dec-2018 02:50:34 UTC] PHP Fatal error:  Cannot declare class CreateTweetsTable, because the name is already in use in /home/ubuntu/workspace/cms/database/migrations/2018_12_16_133347_create_tweets_table.php on line 32

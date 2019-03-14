@@ -1,0 +1,15 @@
+[13-Dec-2018 08:04:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/ubuntu/workspace/cms/routes/web.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/cms/routes/web.php on line 15
+[13-Dec-2018 08:04:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/ubuntu/workspace/cms/routes/web.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/ubuntu/workspace/cms/routes/web.php on line 15
+[17-Dec-2018 05:33:13 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/ubuntu/workspace/cms/app/Http/Controllers/TweetController.php on line 3
+[19-Dec-2018 04:42:03 UTC] PHP Fatal error:  Cannot declare class App\User, because the name is already in use in /home/ubuntu/workspace/cms/app/User.php on line 9
+[19-Dec-2018 04:48:08 UTC] PHP Fatal error:  Cannot declare class App\User, because the name is already in use in /home/ubuntu/workspace/cms/app/User.php on line 9
+[05-Jan-2019 09:27:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/ubuntu/workspace/cms/storage/framework/views/c0b4df9d357196ba77fa5d1f8ea5b02bc19e0409.php on line 1
+[05-Jan-2019 09:27:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/ubuntu/workspace/cms/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesLayouts.php on line 41
+[05-Jan-2019 09:27:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/ubuntu/workspace/cms/vendor/laravel/framework/src/Illuminate/View/Concerns/ManagesLayouts.php on line 41
+[05-Jan-2019 09:28:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/ubuntu/workspace/cms/storage/framework/views/c0b4df9d357196ba77fa5d1f8ea5b02bc19e0409.php on line 1
